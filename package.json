@@ -1,10 +1,10 @@
 {
-    "name": "shoehornjs",
+    "name": "stkjs",
     "version": "0.0.1",
-    "description": "ShoehornJS",
+    "description": "The Shoejunk Tool Kit for JavaScript",
     "repository": {
         "type": "git",
-        "url": "https://github.com/shoejunk/shoehornjs.git"
+        "url": "https://github.com/shoejunk/stkjs.git"
     },
     "author": "Shoejunk Industries"
 }
