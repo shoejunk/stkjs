@@ -1,10 +1,15 @@
 {
     "name": "stkjs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The Shoejunk Tool Kit for JavaScript",
     "repository": {
         "type": "git",
         "url": "https://github.com/shoejunk/stkjs.git"
     },
-    "author": "Shoejunk Industries"
+    "license": "MIT",
+    "author": "Shoejunk Industries",
+    "dependencies": {
+        "jquery": "^2.2.4"
+    },
+    "main": "./lib/utilities.js"
 }
