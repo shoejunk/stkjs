@@ -1,0 +1,10 @@
+{
+    "name": "shoehornjs",
+    "version": "0.0.1",
+    "description": "ShoehornJS",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shoejunk/shoehornjs.git"
+    },
+    "author": "Shoejunk Industries"
+}
