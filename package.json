@@ -9,7 +9,8 @@
     "license": "MIT",
     "author": "Shoejunk Industries",
     "dependencies": {
+      "@nestjs/mapped-types": "*",
         "jquery": "^2.2.4"
     },
-    "main": "./lib/utilities.js"
+    "main": "./lib/index.mjs"
 }
